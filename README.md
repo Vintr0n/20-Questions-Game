@@ -14,6 +14,22 @@ Grandad's delicious cake has been eaten, and all that remains are crumbs! As the
 
 This isn't your typical point-and-click adventure. Each conversation is unique because the NPCs are powered by AI through the Anthropic Claude API. Charlotte and Gary will respond naturally to your questions, remember what you've asked, and react based on their guilt (or innocence). Every playthrough is different!
 
+
+## 🎨 Screenshots
+
+<div align="center">
+
+<img src="screenshots/screenshot1.png" width="300" alt="Main Menu"> <img src="screenshots/screenshot2.png" width="300" alt="Gameplay">
+
+*Gameplay*
+
+<img src="screenshots/screenshot3.png" width="300" alt="Conversation"> <img src="screenshots/screenshot4.png" width="300" alt="Making a Guess">
+
+*Interrogation*
+
+</div>
+
+
 ## ✨ Features
 
 - 🎨 **Top-down 2D exploration** - Navigate a charming pixel art world with virtual joystick controls
@@ -152,20 +168,6 @@ npx http-server
 - Charlotte and Gary have consistent personalities
 - One is guilty, one is innocent (randomized each session)
 - They respond naturally to your questions with context awareness
-
-## 🎨 Screenshots
-
-<div align="center">
-
-<img src="screenshots/screenshot1.png" width="300" alt="Main Menu"> <img src="screenshots/screenshot2.png" width="300" alt="Gameplay">
-
-*Main Menu & Gameplay*
-
-<img src="screenshots/screenshot3.png" width="300" alt="Conversation"> <img src="screenshots/screenshot4.png" width="300" alt="Making a Guess">
-
-*Interrogation & Final Decision*
-
-</div>
 
 ## 🔧 Configuration
 
