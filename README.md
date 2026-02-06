@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A mobile detective game powered by AI where you interrogate suspects to solve the mystery!**
+**A web-based mobile detective game powered by AI where you interrogate suspects to solve the mystery!**
 
 *Who ate Grandad's cake? You have 20 questions to find out...*
 
@@ -19,13 +19,7 @@ This isn't your typical point-and-click adventure. Each conversation is unique b
 
 <div align="center">
 
-<img src="screenshots/screenshot1.png" width="300" alt="Main Menu"> <img src="screenshots/screenshot2.png" width="300" alt="Gameplay">
-
-*Gameplay*
-
-<img src="screenshots/screenshot3.png" width="300" alt="Conversation"> <img src="screenshots/screenshot4.png" width="300" alt="Making a Guess">
-
-*Interrogation*
+<img src="https://github.com/Vintr0n/20-Questions-Game/blob/main/screenshot1.png" width="300"> <img src="https://github.com/Vintr0n/20-Questions-Game/blob/main/screenshot2.png" width="300" alt="Gameplay">
 
 </div>
 
